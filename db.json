@@ -2,18 +2,18 @@
  "contacts": [
     {
         "name": "Rangga",
-        "mobile: "081214284321",
+        "mobile": "081214284321",
         "email": "ranggaaabayu@icloud.com"
     },
     {
         "name": "Ramzi",
-        "mobile: "081214282222",
+        "mobile": "081214282222",
         "email": "ramzi@icloud.com"
     },
     {
         "name": "Iqbal",
-        "mobile: "0812142809238",
+        "mobile": "0812142809238",
         "email": "iqbal@icloud.com"
-    },   
+    } 
  ]
 }
