@@ -1,4 +1,5 @@
-[
+{
+ "contacts": [
     {
         "name": "Rangga",
         "mobile: "081214284321",
@@ -13,5 +14,6 @@
         "name": "Iqbal",
         "mobile: "0812142809238",
         "email": "iqbal@icloud.com"
-    },
-]
+    },   
+ ]
+}
